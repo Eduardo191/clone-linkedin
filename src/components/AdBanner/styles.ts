@@ -7,8 +7,4 @@ export const Container = styled.div`
   color: var(--color-ad-text);
   text-align: center;
   padding: 8px 0;
-
-  span {
-    color: var(--color-link);
-  }
 `;
