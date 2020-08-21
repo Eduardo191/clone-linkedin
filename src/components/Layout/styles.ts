@@ -20,5 +20,9 @@ export const Container = styled.div`
     .left-column, .right-column {
       display: unset;
     }
+
+    .middle-column {
+      margin: 0 25px 16px;
+    }
   }
 `;
